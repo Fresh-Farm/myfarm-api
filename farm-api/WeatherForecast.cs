@@ -2,6 +2,7 @@ namespace farm_api
 {
     public class WeatherForecast
     {
+        //To test
         public DateOnly Date { get; set; }
 
         public int TemperatureC { get; set; }
