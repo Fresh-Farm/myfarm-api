@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2023-11-27",
+    "temperatureC": 48,
+    "temperatureF": 118,
+    "summary": "Mild"
+  },
+  {
+    "date": "2023-11-28",
+    "temperatureC": 30,
+    "temperatureF": 85,
+    "summary": "Mild"
+  },
+  {
+    "date": "2023-11-29",
+    "temperatureC": 52,
+    "temperatureF": 125,
+    "summary": "Freezing"
+  },
+  {
+    "date": "2023-11-30",
+    "temperatureC": 15,
+    "temperatureF": 58,
+    "summary": "Sweltering"
+  },
+  {
+    "date": "2023-12-01",
+    "temperatureC": 29,
+    "temperatureF": 84,
+    "summary": "Warm"
+  }
+]
