@@ -5,7 +5,12 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "farm-api", "farm-api\farm-api.csproj", "{16AB9AAF-C5D8-47FA-B847-36DD8F5F57DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "farm-BL", "farm-BL\farm-BL.csproj", "{A215F8EB-0756-407C-A89F-7F7507E6B2B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "farm-BL", "farm-BL\farm-BL.csproj", "{A215F8EB-0756-407C-A89F-7F7507E6B2B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Output", "Output", "{618C2B80-FE9F-4F44-8B11-A24CA21E25D1}"
+	ProjectSection(SolutionItems) = preProject
+		..\myfarm-apiv2\test.json = ..\myfarm-apiv2\test.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
